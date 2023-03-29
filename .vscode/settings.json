@@ -1,0 +1,20 @@
+{
+    "workbench.colorCustomizations": {
+        "terminal.foreground": "#60bc60",
+        "terminal.background": "#000000",
+        "tab.activeBackground": "#82251b64",
+        "tab.border": "#3ca259",
+        "tab.hoverForeground": "#ffffff",
+        "tab.inactiveBackground": "#000000",
+        "tab.unfocusedActiveBackground": "#6767672b",
+        "badge.background": "#ff0000",
+        "editor.background": "#000000",
+        "editorLineNumber.activeForeground": "#ef7d20",
+        "editorIndentGuide.activeBackground": "#35ce81",
+        "terminal.tab.activeBorder": "#ff0000",
+        "sideBar.background": "#000000",
+        "sideBySideEditor.verticalBorder": "#000000",
+        "minimap.background": "#00000000",
+        "scrollbar.shadow": "#00000000"
+    }
+}
